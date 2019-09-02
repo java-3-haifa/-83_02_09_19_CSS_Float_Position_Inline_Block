@@ -1,0 +1,32 @@
+html,body,p{
+    margin: 0;
+}
+
+.box{
+    width: 600px;
+    margin: 100px auto;
+    border: 1px solid #000;
+    padding: 50px;
+}
+
+.img{
+    width: 70px;
+    height: 70px;
+    background-color: #ff9f19;
+    border: 1px solid #0f0;
+    float: left;
+}
+
+p{
+    border: 1px solid #f00;
+}
+
+ul{
+    margin: 0 -15px;
+    padding: 0;
+}
+li{
+    float:left;
+    list-style-type: none;
+    margin: 0 15px;
+}

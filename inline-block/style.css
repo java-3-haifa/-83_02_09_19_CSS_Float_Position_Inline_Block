@@ -1,0 +1,23 @@
+html, body, p {
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    margin: 100px auto;
+    border: 1px solid #000;
+    text-align: left;
+}
+
+.box {
+    box-sizing: border-box;
+    width: calc(100% / 3 - 20px);
+    background-color: #ff9f19;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: middle;
+    min-width: 400px;
+    min-height: 400px;
+    margin: 10px;
+}
+
